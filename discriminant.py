@@ -1,4 +1,4 @@
-from math import sqrt, pow
+from math import pow
 
 a, b, c = float(input()), float(input()), float(input())
 D = pow(b, 2) - 4 * a * c
